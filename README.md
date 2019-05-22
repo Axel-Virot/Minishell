@@ -1,5 +1,5 @@
 # Minishell
-Tech1: Graphic Project, Minishell
+Tech1: Shell Project, Minishell
 
 Promo 2023, Tech 1.
 
